@@ -5,6 +5,7 @@
 ; I referenced https://www.tutorialspoint.com/assembly_programming/assembly_conditions.htm for the cmp and jmp commands used for error checking.
 ; I referenced https://man7.org/linux/man-pages/man2/shutdown.2.html to help with the shutdown system call for clean socket shutdown.
 ; I referenced man7.org for all of the system calls to verify return values.
+; I referenced https://www.tutsmake.com/upload-project-files-on-github-using-command-line/ for help with github and creating/pushing to repository.
 
 ; Matthew Dickerman
 ; CyS333 PEX1
